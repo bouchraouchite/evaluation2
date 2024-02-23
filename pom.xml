@@ -84,14 +84,7 @@
             <version>0.15</version>
           </dependency>
         </dependencies>
-        <configuration>
-          <targetClasses>
-            <param>fr.norsys.stringcalculator.*</param>
-          </targetClasses>
-          <targetTests>
-            <param>fr.norsys.stringcalculator.*</param>
-          </targetTests>
-        </configuration>
+     
       </plugin>
 
     </plugins>
